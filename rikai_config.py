@@ -1,5 +1,5 @@
 # Whether to automatically pause when hover over subtitles
-autopause = False
+autopause = True
 
 # interval between checking for the next subtitle, in seconds
 update_time = 0.01
